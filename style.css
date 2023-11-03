@@ -1,0 +1,42 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+#albums{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid blue;
+    margin-top: 10px;
+    border-radius: 5px;
+    background: rgb(130,184,230);
+    background: linear-gradient(169deg, rgba(130,184,230,1) 0%, rgba(247,207,216,1) 100%);
+}
+
+.box h1{
+    color: rgb(156, 23, 45);
+    padding-left: 5px;
+}
+
+.box p{
+    padding-left: 10px;
+}
+
+.box .singer{
+    background-color: rgb(122, 184, 184);
+}
+
+.box .year{
+    background-color: rgb(240, 109, 135);
+}
+
+.box .desc{
+    background-color: rgb(255, 144, 144);
+}

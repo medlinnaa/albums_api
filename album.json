@@ -1,0 +1,62 @@
+[
+    {
+        "Singer":"Taylor Swift",
+        "Year":2006 ,
+        "Album":"Taylor Swift",
+        "desc":"Debut"
+    },
+    {
+        "Singer":"Taylor Swift",
+        "Year":2008 ,
+        "Album":"Fearless",
+        "desc":"Romeo save me!!"
+    },
+    {
+        "Singer":"Taylor Swift",
+        "Year":2010 ,
+        "Album":"Speak now",
+        "desc":"Said speak now-ow!"
+    },
+    {
+        "Singer":"Taylor Swift",
+        "Year":2012 ,
+        "Album":"Red",
+        "desc":"Loving him was red."
+    },
+    {
+        "Singer":"Taylor Swift",
+        "Year":2014 ,
+        "Album":"1989",
+        "desc":"My name is Taylor and I was born in 1989."
+    },
+    {
+        "Singer":"Taylor Swift",
+        "Year":2017 ,
+        "Album":"Reputation",
+        "desc":"Big Reputationn."
+    },
+    {
+        "Singer":"Taylor Swift",
+        "Year":2019 ,
+        "Album":"Lover",
+        "desc":"Can I go Where You Go?"
+    },
+    {
+        "Singer":"Taylor Swift",
+        "Year":2020 ,
+        "Album":"Folklore",
+        "desc":"Betty,James and Augustine love triangle."
+    },
+    {
+        "Singer":"Taylor Swift",
+        "Year":2020 ,
+        "Album":"Evermore",
+        "desc":"The more that you say the less i know."
+    },
+    {
+        "Singer":"Taylor Swift",
+        "Year":2022 ,
+        "Album":"Midnights",
+        "desc":"Meet me at midnight."
+    }
+]
